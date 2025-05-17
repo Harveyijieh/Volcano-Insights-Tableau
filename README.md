@@ -80,7 +80,11 @@ Title: "Total Eruption"
 Title: "Top Countries"
 ![Top Countries](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Countries%20overview.png)
 
+---
+Title: "Environmental Impact"
+![The Impacts](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Countries%20overview.png)
 
-Click to [download](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Customer%20Churn%20Analysis%20PWC.pbix) full report. 
 
-#DataAnalysis #PowerBI
+Click to [download](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Volcanic%20Eruption%20Dashboard%20Story.twbx) full report. 
+
+#DataAnalysis #Tableau
