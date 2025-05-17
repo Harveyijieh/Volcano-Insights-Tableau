@@ -82,7 +82,7 @@ Title: "Top Countries"
 
 ---
 Title: "Environmental Impact"
-![The Impacts](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Countries%20overview.png)
+![The Impacts](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Environmental%20Impact%20and%20concerns.png)
 
 
 Click to [download](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Volcanic%20Eruption%20Dashboard%20Story.twbx) full report. 
