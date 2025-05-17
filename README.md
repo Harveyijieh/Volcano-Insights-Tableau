@@ -1,4 +1,4 @@
-## 🌋 Volcanic Eruption Dashboard
+#🌋 Volcanic Eruption Dashboard
 
 A data-driven Tableau dashboard exploring global volcanic activity, dominant rock types, and eruption-related threats over the last 14,000 years.
 
@@ -34,8 +34,10 @@ Volcanoes are powerful natural phenomena with widespread consequences. This dash
 - Understanding eruption patterns aids disaster preparedness and risk mitigation.
 
 ### Data Visualization with Tableau
-To effectively present these insights, An interactive Tableau dashboard was developed to visualise:
-
+To effectively present these insights, An interactive Tableau dashboard was developed to visualise
+- Eruption counts by country
+- Top Eruption prone countries
+- Environmental Impacts and others 
 ---
 
 Title: "Total Eruption"
@@ -50,13 +52,12 @@ Title: "Environmental Impact"
 ![The Impacts](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Environmental%20Impact%20and%20concerns.png)
 
 
-Click to [download](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Volcanic%20Eruption%20Dashboard%20Story.twbx) full report. 
+Click to [download](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Volcanic%20Eruption%20Dashboard%20Story.twbx) full data story report. 
 
 ## 📫 Contact
 
 For feedback or collaboration:  
 **Harvey Ijieh** – [harveyijieh@gmail.com]  
 **Harvey Ijieh** - [LinkedIn Profile](https://www.linkedin.com/in/harvey-ijieh-119091147/)
-**GitHub** – Version control and project sharing  [Sign Up](https://github.com/)
 
 #DataAnalysis #Tableau
