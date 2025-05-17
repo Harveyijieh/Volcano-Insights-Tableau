@@ -1,4 +1,4 @@
-# 🌋 Volcanic Eruption Dashboard
+## 🌋 Volcanic Eruption Dashboard
 
 A data-driven Tableau dashboard exploring global volcanic activity, dominant rock types, and eruption-related threats over the last 14,000 years.
 
@@ -14,63 +14,28 @@ This project visualizes and analyzes volcanic eruptions worldwide, focusing on:
 ### 🌍 Data Source
 
 The dataset was originally provided by the **Smithsonian Institution’s Global Volcanism Program**  
-(https://volcano.si.edu/), and was accessed in a cleaned and curated format through a **Udemy course by Jed Guinto**.
-
-## 📌 Tools Used
-- **Excel/CSV** – Data exploring 
-- **Tableau** – Data visualization [Download here](https://www.tableau.com/products/public/download)
+(https://volcano.si.edu/), and was accessed in a cleaned and curated format through a **Udemy course by Jed Guinto**
 
 Special thanks to Jed Guinto for preparing the data in an analysis-ready format.
 
-## 💡 Motivation
+### 📌 Tools Used
+- **Excel/CSV** – Data exploring 
+- **Tableau** – Data visualization [Download here](https://www.tableau.com/products/public/download)
+
+### 💡 Motivation
 
 Volcanoes are powerful natural phenomena with widespread consequences. This dashboard aims to make volcanic data accessible, insightful, and actionable for both researchers and the general public.
 
-## 🔍 Key Insights
+### 🔍 Key Insights
 
 - 49% of all recorded eruptions come from just 7 countries.
 - Andesite and Basalt are the most common rock types in eruption zones.
 - Stratovolcanoes dominate outside the top 7 eruption-prone nations.
 - Understanding eruption patterns aids disaster preparedness and risk mitigation.
 
-
-
-
-
-
-
-
-## 📁 Contents
-
-- `Volcanic_Eruptions_Dashboard.twbx` – Tableau dashboard file
-- `data/` – Folder containing raw and cleaned datasets
-- `images/` – Screenshots of the dashboard for quick preview
-- `README.md` – Project documentation
-
-
-## 🚀 Getting Started
-
-To view the dashboard:
-1. Download the `.twbx` file.
-2. Open it in [Tableau Desktop](https://www.tableau.com/).
-3. Explore the story panels and interactive charts.
-
-
-## 📫 Contact
-
-For feedback or collaboration:  
-**Harvey Ijieh** – [harveyijieh@gmail.com]  
-**Harvey Ijieh** - [LinkedIn Profile](https://www.linkedin.com/in/harvey-ijieh-119091147/)
-**GitHub** – Version control and project sharing  [Sign Up](https://github.com/)
-
-## OLD WORK BELOW 
-
 ### Data Visualization with Tableau
-To effectively present these insights, An interactive Power BI dashboard was developed to visualise:
-- Churn Rate Overview: Displays the total percentage of churned customers.
-- Contract Type Analysis: Compares churn rates across different contract lengths.
-- Monthly Charges and Churn: Correlation between customer spending and retention.
-- Customer Support Interaction: Analyzing how support engagement impacts churn likelihood.
+To effectively present these insights, An interactive Tableau dashboard was developed to visualise:
+
 ---
 
 Title: "Total Eruption"
@@ -86,5 +51,12 @@ Title: "Environmental Impact"
 
 
 Click to [download](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Volcanic%20Eruption%20Dashboard%20Story.twbx) full report. 
+
+## 📫 Contact
+
+For feedback or collaboration:  
+**Harvey Ijieh** – [harveyijieh@gmail.com]  
+**Harvey Ijieh** - [LinkedIn Profile](https://www.linkedin.com/in/harvey-ijieh-119091147/)
+**GitHub** – Version control and project sharing  [Sign Up](https://github.com/)
 
 #DataAnalysis #Tableau
