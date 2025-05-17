@@ -78,7 +78,7 @@ Title: "Total Eruption"
 
 ---
 Title: "Top Countries"
-![Churn Dashboard](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Churn%20Dashboard%20Analysis%202.png)
+![Top Countries](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Countries%20overview.png)
 
 
 Click to [download](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Customer%20Churn%20Analysis%20PWC.pbix) full report. 
