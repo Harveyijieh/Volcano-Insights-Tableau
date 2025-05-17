@@ -74,10 +74,10 @@ To effectively present these insights, An interactive Power BI dashboard was dev
 ---
 
 Title: "Total Eruption"
-![Total Eruption](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Churn%20Analysis%20Dashboard%201.png)
+![Total Eruption](https://github.com/Harveyijieh/Volcano-Insights-Tableau/blob/main/Eruption%20Total.png)
 
 ---
-Title: "Dashboard 2"
+Title: "Top Countries"
 ![Churn Dashboard](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Churn%20Dashboard%20Analysis%202.png)
 
 
